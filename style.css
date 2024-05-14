@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+}
+
+i {
+    color: black
+}
+
+.container {
+    width: 70vw;
+}
+
+.card .card-header {
+    color: white;
+}
+
